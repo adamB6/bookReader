@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LHwgvFwhB1+vHFs5WVabPTiemIFCdRoh+qAt18mjnymWXOLUtrE9tjghfMJ35JkumBoSnFjaj1qLh0r4vtxWwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asbot\\source\\repos\\bookReader\\bookReader\\bookReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asbot\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\asbot\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\asbot\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\asbot\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\asbot\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\asbot\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

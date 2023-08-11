@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Resources\favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\10150-0.txt" />
+    <None Remove="Resources\1064-0.txt" />
+    <None Remove="Resources\13007.txt" />
+    <None Remove="Resources\13008.txt" />
+    <None Remove="Resources\16328-0.txt" />
+    <None Remove="Resources\17192.txt" />
+    <None Remove="Resources\21.txt" />
+    <None Remove="Resources\345.txt" />
+    <None Remove="Resources\74-0.txt" />
+    <None Remove="Resources\76-0.txt" />
+    <None Remove="Resources\86.txt" />
+    <None Remove="Resources\BOOK_INDEX.txt" />
+    <None Remove="Resources\pg932.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\favicon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\10150-0.txt" />
+    <EmbeddedResource Include="Resources\1064-0.txt" />
+    <EmbeddedResource Include="Resources\13007.txt" />
+    <EmbeddedResource Include="Resources\13008.txt" />
+    <EmbeddedResource Include="Resources\16328-0.txt" />
+    <EmbeddedResource Include="Resources\17192.txt" />
+    <EmbeddedResource Include="Resources\21.txt" />
+    <EmbeddedResource Include="Resources\345.txt" />
+    <EmbeddedResource Include="Resources\74-0.txt" />
+    <EmbeddedResource Include="Resources\76-0.txt" />
+    <EmbeddedResource Include="Resources\86.txt" />
+    <EmbeddedResource Include="Resources\BOOK_INDEX.txt" />
+    <EmbeddedResource Include="Resources\pg932.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+    <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>

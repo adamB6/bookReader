@@ -1,0 +1,48 @@
+Adventures of Huckleberry Finn
+Mark Twain
+76-0.txt
+https://www.gutenberg.org/ebooks/76
+The Adventures of Tom Sawyer
+Mark Twain
+74-0.txt
+https://www.gutenberg.org/ebooks/74
+A Connecticut Yankee in King Arthur's Court
+Mark Twain
+86.txt
+https://www.gutenberg.org/ebooks/86
+The Fall of the House of Usher
+Edgar Allan Poe
+pg932.txt
+https://www.gutenberg.org/ebooks/932
+The Raven
+Edgar Allan Poe
+17192.txt
+https://www.gutenberg.org/ebooks/17192
+The Masque of the Red Death
+Edgar Allan Poe
+1064-0.txt
+https://www.gutenberg.org/ebooks/1064
+Aesop's Fables
+Aesop
+21.txt
+https://www.gutenberg.org/ebooks/21
+Dracula
+Bram Stoker
+345.txt
+https://www.gutenberg.org/ebooks/345
+Dracula's Guest
+Bram Stoker
+10150-0.txt
+https://www.gutenberg.org/ebooks/10150
+Beowulf: An Anglo-Saxon Epic Poem
+J. Lesslie Hall
+16328-0.txt
+https://www.gutenberg.org/ebooks/16328
+The Edda, Volume 1
+L. Winifred Faraday
+13007.txt
+https://www.gutenberg.org/ebooks/13007
+The Edda, Volume 2
+L. Winifred Faraday
+13008.txt
+https://www.gutenberg.org/ebooks/13008
